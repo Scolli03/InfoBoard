@@ -2,3 +2,4 @@
 /Executables
 /__pycache__
 *.log
+/.venv
