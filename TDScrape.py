@@ -9,7 +9,7 @@ opts = Options()
 #opts.headless = False
 
 browser = Firefox(firefox_profile=profile, options=opts,
-                       executable_path=r"C:\Users\Scoll\Desktop\InfoBoard\Executables\geckodriver.exe")
+                       executable_path=r"geckodriver.exe")
 
 
 
